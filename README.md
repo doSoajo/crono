@@ -1,5 +1,5 @@
-# crono
-Cronologia Histórica Soajo
+# Cronologia Histórica de Soajo, da sua Serra e gentes
+
 
 A preservação da memória histórica de uma comunidade é essencial para a valorização do seu património cultural. 
 
